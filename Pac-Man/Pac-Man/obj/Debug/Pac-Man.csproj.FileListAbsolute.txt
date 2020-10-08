@@ -1,0 +1,10 @@
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\bin\Debug\Pac-Man.exe.config
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\bin\Debug\Pac-Man.exe
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\bin\Debug\Pac-Man.pdb
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\obj\Debug\Pac-Man.csprojAssemblyReference.cache
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\obj\Debug\Pac_Man.Form1.resources
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\obj\Debug\Pac_Man.Properties.Resources.resources
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\obj\Debug\Pac-Man.csproj.GenerateResource.cache
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\obj\Debug\Pac-Man.csproj.CoreCompileInputs.cache
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\obj\Debug\Pac-Man.exe
+C:\Google Drive\PBA\Classes\'18-'19\Graphics\Pac-Man\Pac-Man\obj\Debug\Pac-Man.pdb
